@@ -1,0 +1,25 @@
+{
+  "retrieved_utc": "2026-11-19 10:27 UTC",
+  "ticker_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+  "price_source": "yfinance 0.2.66 (auto_adjust=False, actions=True, daily)",
+  "study_start": "2021-01-01",
+  "study_end_exclusive": "2025-01-01",
+  "benchmark": "^GSPC",
+  "duplicate_dates_dropped": 0,
+  "package_versions": {
+    "python": "3.13.18",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "yfinance": "0.2.66"
+  },
+  "md5": {
+    "open": "c4cea66a",
+    "high": "d961d1db",
+    "low": "5d6efe75",
+    "close": "240665b9",
+    "adj_close": "22bea169",
+    "volume": "904dc1b9",
+    "dividends": "2389b774",
+    "splits": "fac6c376"
+  }
+}

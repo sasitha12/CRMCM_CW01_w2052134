@@ -1,0 +1,2 @@
+ticker,date,open,high,low,close,open_outside_range,close_outside_range
+HUBB,2021-05-05,195.97999572753903,198.63999938964844,196.2100067138672,198.1300048828125,True,False

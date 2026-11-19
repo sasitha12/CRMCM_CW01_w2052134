@@ -1,0 +1,21 @@
+check,result
+Snapshot retrieved (UTC),2026-11-19 10:27 UTC
+Tickers in the Wikipedia list,503
+Excluded: no price data in study period,5
+Excluded: incomplete history,10
+Excluded: volume error (zero or negative),2
+Excluded: missing values inside history,0
+Shares retained (common set for all models),486
+Duplicate dates on the benchmark calendar,0
+Retained shares with missing values inside history,0
+Retained shares with non-positive prices,0
+Retained shares with zero or negative volume days,0
+Split-type corporate-action events among retained shares,61
+Days where Adj Close and Close differ without a recorded action,0
+Aligned weekly return observations per share,207
+Observation date,2024-12-31
+60-session window,2024-10-07 to 2024-12-31
+Testable share-days for the 20-session baseline,478710
+High-volume days flagged,18280
+Shares with no event in history (Recency missing),0
+Shares with Frequency = 0,10

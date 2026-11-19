@@ -1,0 +1,504 @@
+ticker,company,sector,Date added,first_valid,last_valid,n_valid,gaps,nonpositive_price_days,negative_volume_days,zero_volume_days,exclusion_reason,included
+MMM,3M,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AOS,A. O. Smith,Industrials,2017-07-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ABT,Abbott Laboratories,Health Care,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ABBV,AbbVie,Health Care,2012-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ACN,Accenture,Information Technology,2011-07-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ADBE,Adobe Inc.,Information Technology,1997-05-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AMD,Advanced Micro Devices,Information Technology,2017-03-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AES,AES Corporation,Utilities,1998-10-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AFL,Aflac,Financials,1999-05-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+A,Agilent Technologies,Health Care,2000-06-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+APD,Air Products,Materials,1985-04-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ABNB,Airbnb,Consumer Discretionary,2023-09-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AKAM,Akamai Technologies,Information Technology,2007-07-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ALB,Albemarle Corporation,Materials,2016-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ARE,Alexandria Real Estate Equities,Real Estate,2017-03-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ALGN,Align Technology,Health Care,2017-06-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ALLE,Allegion,Industrials,2013-12-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LNT,Alliant Energy,Utilities,2016-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ALL,Allstate,Financials,1995-07-13,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GOOGL,Alphabet Inc. (Class A),Communication Services,2006-04-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GOOG,Alphabet Inc. (Class C),Communication Services,2014-04-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MO,Altria,Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AMZN,Amazon,Consumer Discretionary,2005-11-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AMCR,Amcor,Materials,2019-06-07,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AEE,Ameren,Utilities,1991-09-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AEP,American Electric Power,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AXP,American Express,Financials,1976-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AIG,American International Group,Financials,1980-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AMT,American Tower,Real Estate,2007-11-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AWK,American Water Works,Utilities,2016-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AMP,Ameriprise Financial,Financials,2005-10-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AME,Ametek,Industrials,2013-09-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AMGN,Amgen,Health Care,1992-01-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+APH,Amphenol,Information Technology,2008-09-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ADI,Analog Devices,Information Technology,1999-10-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AON,Aon plc,Financials,1996-04-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+APA,APA Corporation,Energy,1997-07-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+APO,Apollo Global Management,Financials,2024-12-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AAPL,Apple Inc.,Information Technology,1982-11-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AMAT,Applied Materials,Information Technology,1995-03-16,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+APP,AppLovin,Communication Services,2025-09-22,2021-04-15,2024-12-31,935,0,0,0,0,Incomplete history (does not cover full study period),False
+APTV,Aptiv,Consumer Discretionary,2012-12-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ACGL,Arch Capital Group,Financials,2022-11-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ADM,Archer Daniels Midland,Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ARES,Ares Management,Financials,2025-12-11,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ANET,Arista Networks,Information Technology,2018-08-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AJG,Arthur J. Gallagher & Co.,Financials,2016-05-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AIZ,Assurant,Financials,2007-04-10,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+T,AT&T,Communication Services,1983-11-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ATO,Atmos Energy,Utilities,2019-02-15,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ADSK,Autodesk,Information Technology,1989-12-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ADP,Automatic Data Processing,Industrials,1981-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AZO,AutoZone,Consumer Discretionary,1997-01-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AVY,Avery Dennison,Materials,1987-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AXON,Axon Enterprise,Industrials,2023-05-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BKR,Baker Hughes,Energy,2017-07-07,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BALL,Ball Corporation,Materials,1984-10-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BAC,Bank of America,Financials,1976-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BAX,Baxter International,Health Care,1972-09-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BDX,Becton Dickinson,Health Care,1972-09-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BRK-B,Berkshire Hathaway,Financials,2010-02-16,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BBY,Best Buy,Consumer Discretionary,1999-06-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TECH,Bio-Techne,Health Care,2021-08-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BIIB,Biogen,Health Care,2003-11-13,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BLK,BlackRock,Financials,2011-04-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BX,Blackstone Inc.,Financials,2023-09-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+XYZ,"Block, Inc.",Financials,2025-07-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BE,Bloom Energy,Industrials,2026-09-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BNY,BNY Mellon,Financials,1995-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BA,Boeing,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BKNG,Booking Holdings,Consumer Discretionary,2009-11-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BSX,Boston Scientific,Health Care,1995-02-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BMY,Bristol Myers Squibb,Health Care,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+AVGO,Broadcom,Information Technology,2014-05-08,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BR,Broadridge Financial Solutions,Industrials,2018-06-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BRO,Brown & Brown,Financials,2021-09-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BF-B,Brown–Forman,Consumer Staples,1982-10-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BG,Bunge Global,Consumer Staples,2023-03-15,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BXP,"BXP, Inc.",Real Estate,2006-04-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CHRW,C.H. Robinson,Industrials,2007-03-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CDNS,Cadence Design Systems,Information Technology,2017-09-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CPT,Camden Property Trust,Real Estate,2022-04-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+COF,Capital One,Financials,1998-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CAH,Cardinal Health,Health Care,1997-05-27,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CCL,Carnival Corporation,Consumer Discretionary,1998-12-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CARR,Carrier Global,Industrials,2020-04-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CVNA,Carvana,Consumer Discretionary,2025-12-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CASY,Casey's,Consumer Staples,2026-04-09,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CAT,Caterpillar Inc.,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CBOE,Cboe Global Markets,Financials,2017-03-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CBRE,CBRE Group,Real Estate,2006-11-10,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CDW,CDW Corporation,Information Technology,2019-09-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+COR,Cencora,Health Care,2001-08-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CNC,Centene Corporation,Health Care,2016-03-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CNP,CenterPoint Energy,Utilities,1985-07-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CF,CF Industries,Materials,2008-08-27,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CRL,Charles River Laboratories,Health Care,2021-05-14,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SCHW,Charles Schwab Corporation,Financials,1997-06-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CHTR,Charter Communications,Communication Services,2016-09-08,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CVX,Chevron Corporation,Energy,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CMG,Chipotle Mexican Grill,Consumer Discretionary,2011-04-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CB,Chubb Limited,Financials,2010-07-15,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CHD,Church & Dwight,Consumer Staples,2015-12-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CIEN,Ciena,Information Technology,2026-02-09,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CI,Cigna,Health Care,1976-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CINF,Cincinnati Financial,Financials,1997-12-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CTAS,Cintas,Industrials,2001-03-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CSCO,Cisco,Information Technology,1993-12-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+C,Citigroup,Financials,1988-05-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CFG,Citizens Financial Group,Financials,2016-01-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CLX,Clorox,Consumer Staples,1969-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CME,CME Group,Financials,2006-08-11,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CMS,CMS Energy,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KO,Coca-Cola Company (The),Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CTSH,Cognizant,Information Technology,2006-11-17,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+COHR,Coherent Corp.,Information Technology,2026-03-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+COIN,Coinbase,Financials,2025-05-19,2021-04-14,2024-12-31,936,0,0,0,0,Incomplete history (does not cover full study period),False
+CL,Colgate-Palmolive,Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CMCSA,Comcast,Communication Services,2002-11-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FIX,Comfort Systems USA,Industrials,2025-12-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+COP,ConocoPhillips,Energy,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ED,Consolidated Edison,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+STZ,Constellation Brands,Consumer Staples,2005-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CEG,Constellation Energy,Utilities,2022-02-02,2022-01-19,2024-12-31,742,0,0,0,0,Incomplete history (does not cover full study period),False
+COO,Cooper Companies (The),Health Care,2016-09-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CPRT,Copart,Industrials,2018-07-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GLW,Corning Inc.,Information Technology,1995-02-27,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CPAY,Corpay,Financials,2018-06-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CSGP,CoStar Group,Real Estate,2022-09-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+COST,Costco,Consumer Staples,1993-10-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CRH,CRH plc,Materials,2025-12-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CRWD,CrowdStrike,Information Technology,2024-06-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CCI,Crown Castle,Real Estate,2012-03-14,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CSX,CSX Corporation,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CMI,Cummins,Industrials,1965-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CVS,CVS Health,Health Care,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DHR,Danaher Corporation,Health Care,1998-11-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DRI,Darden Restaurants,Consumer Discretionary,1995-05-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DDOG,Datadog,Information Technology,2025-07-09,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DVA,DaVita,Health Care,2008-07-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DECK,Deckers Brands,Consumer Discretionary,2024-03-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DE,Deere & Company,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DELL,Dell Technologies,Information Technology,2024-09-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DAL,Delta Air Lines,Industrials,2013-09-11,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DVN,Devon Energy,Energy,2000-08-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DXCM,Dexcom,Health Care,2020-05-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FANG,Diamondback Energy,Energy,2018-12-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DLR,Digital Realty,Real Estate,2016-05-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DG,Dollar General,Consumer Staples,2012-12-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DLTR,Dollar Tree,Consumer Staples,2011-12-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+D,Dominion Energy,Utilities,2016-11-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DPZ,Domino's,Consumer Discretionary,2020-05-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DASH,DoorDash,Consumer Discretionary,2025-03-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DOV,Dover Corporation,Industrials,1985-10-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DOW,Dow Inc.,Materials,2019-04-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DHI,D. R. Horton,Consumer Discretionary,2005-06-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DTE,DTE Energy,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DUK,Duke Energy,Utilities,1976-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DD,DuPont,Industrials,2019-06-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ETN,Eaton Corporation,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EBAY,eBay Inc.,Consumer Discretionary,2002-07-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ECHO,EchoStar,Communication Services,2026-03-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ECL,Ecolab,Materials,1989-01-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EIX,Edison International,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EW,Edwards Lifesciences,Health Care,2011-04-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ELV,Elevance Health,Health Care,2002-07-25,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EME,Emcor,Industrials,2025-09-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EMR,Emerson Electric,Industrials,1965-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ETR,Entergy,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EOG,EOG Resources,Energy,2000-11-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EQT,EQT Corporation,Energy,2022-10-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EFX,Equifax,Industrials,1997-06-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EQIX,Equinix,Real Estate,2015-03-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ERIE,Erie Indemnity,Financials,2024-09-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ESS,Essex Property Trust,Real Estate,2014-04-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EL,Estée Lauder Companies (The),Consumer Staples,2006-01-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EG,Everest Group,Financials,2017-06-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EVRG,Evergy,Utilities,2018-06-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+P,Everpure,Information Technology,2026-09-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ES,Eversource Energy,Utilities,2009-07-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EXC,Exelon,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EXE,Expand Energy,Energy,2025-03-24,2021-02-10,2024-12-31,979,0,0,0,0,Incomplete history (does not cover full study period),False
+EXPE,Expedia Group,Consumer Discretionary,2007-10-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EXPD,Expeditors International,Industrials,2007-10-10,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+EXR,Extra Space Storage,Real Estate,2016-01-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+XOM,ExxonMobil,Energy,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FFIV,"F5, Inc.",Information Technology,2010-12-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FDS,FactSet,Financials,2021-12-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FICO,Fair Isaac,Information Technology,2023-03-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FAST,Fastenal,Industrials,2008-09-15,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FRT,Federal Realty Investment Trust,Real Estate,2016-02-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FDX,FedEx,Industrials,1980-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FDXF,FedEx Freight,Industrials,2026-06-01,,,0,0,0,0,0,No price data in study period,False
+FERG,Ferguson Enterprises,Industrials,2026-08-05,2021-01-04,2024-12-31,1005,0,0,0,27,Volume error (zero or negative volume),False
+FIS,Fidelity National Information Services,Financials,2006-11-10,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FITB,Fifth Third Bancorp,Financials,1996-03-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FSLR,First Solar,Information Technology,2022-12-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FE,FirstEnergy,Utilities,1997-11-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FISV,Fiserv,Financials,2001-04-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FLEX,Flex Ltd.,Information Technology,2026-06-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+F,Ford Motor Company,Consumer Discretionary,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FTNT,Fortinet,Information Technology,2018-10-11,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FTV,Fortive,Industrials,2016-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FOXA,Fox Corporation (Class A),Communication Services,2019-03-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FOX,Fox Corporation (Class B),Communication Services,2019-03-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+BEN,Franklin Resources,Financials,1998-04-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+FCX,Freeport-McMoRan,Materials,2011-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GRMN,Garmin,Consumer Discretionary,2012-12-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IT,Gartner,Information Technology,2017-04-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GE,GE Aerospace,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GEHC,GE HealthCare,Health Care,2023-01-04,2022-12-15,2024-12-31,513,0,0,0,0,Incomplete history (does not cover full study period),False
+GEV,GE Vernova,Industrials,2024-04-02,2024-03-27,2024-12-31,193,0,0,0,0,Incomplete history (does not cover full study period),False
+GEN,Gen Digital,Information Technology,2003-03-25,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GNRC,Generac,Industrials,2021-03-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GD,General Dynamics,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GIS,General Mills,Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GM,General Motors,Consumer Discretionary,2013-06-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GPC,Genuine Parts Company,Consumer Discretionary,1973-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GILD,Gilead Sciences,Health Care,2004-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GPN,Global Payments,Financials,2016-04-25,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GL,Globe Life,Financials,1989-04-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GDDY,GoDaddy,Information Technology,2024-06-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GS,Goldman Sachs,Financials,2002-07-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HAL,Halliburton,Energy,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HIG,Hartford (The),Financials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HAS,Hasbro,Consumer Discretionary,1984-09-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HCA,HCA Healthcare,Health Care,2015-01-27,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DOC,Healthpeak Properties,Real Estate,2008-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HSIC,Henry Schein,Health Care,2015-03-17,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HSY,Hershey Company (The),Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HPE,Hewlett Packard Enterprise,Information Technology,2015-11-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HLT,Hilton Worldwide,Consumer Discretionary,2017-06-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HD,Home Depot (The),Consumer Discretionary,1988-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HONA,Honeywell Aerospace,Industrials,2026-06-29,,,0,0,0,0,0,No price data in study period,False
+HON,Honeywell Technologies,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HRL,Hormel Foods,Consumer Staples,2009-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HST,Host Hotels & Resorts,Real Estate,2007-03-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HWM,Howmet Aerospace,Industrials,2016-10-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HPQ,HP Inc.,Information Technology,1974-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HUBB,Hubbell Incorporated,Industrials,2023-10-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HUM,Humana,Health Care,2012-12-10,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HBAN,Huntington Bancshares,Financials,1997-08-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HII,Huntington Ingalls Industries,Industrials,2018-01-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IBM,IBM,Information Technology,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IEX,IDEX Corporation,Industrials,2019-08-09,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IDXX,Idexx Laboratories,Health Care,2017-01-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ITW,Illinois Tool Works,Industrials,1986-02-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ILMN,"Illumina, Inc.",Health Care,2026-09-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+INCY,Incyte,Health Care,2017-02-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IR,Ingersoll Rand,Industrials,2020-03-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PODD,Insulet Corporation,Health Care,2023-03-15,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+INTC,Intel,Information Technology,1976-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IBKR,Interactive Brokers,Financials,2025-08-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ICE,Intercontinental Exchange,Financials,2007-09-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IFF,International Flavors & Fragrances,Materials,1976-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IP,International Paper,Materials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+INTU,Intuit,Information Technology,2000-12-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ISRG,Intuitive Surgical,Health Care,2008-06-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IVZ,Invesco,Financials,2008-08-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+INVH,Invitation Homes,Real Estate,2022-09-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IQV,IQVIA,Health Care,2017-08-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+IRM,Iron Mountain,Real Estate,2009-01-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+JBHT,J.B. Hunt,Industrials,2015-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+JBL,Jabil,Information Technology,2023-12-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+JKHY,Jack Henry & Associates,Financials,2018-11-13,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+J,Jacobs Solutions,Industrials,2007-10-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+JNJ,Johnson & Johnson,Health Care,1973-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+JCI,Johnson Controls,Industrials,2010-08-27,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+JPM,JPMorgan Chase,Financials,1975-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KDP,Keurig Dr Pepper,Consumer Staples,2022-06-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KEY,KeyCorp,Financials,1994-03-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KEYS,Keysight Technologies,Information Technology,2018-11-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KMB,Kimberly-Clark,Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KIM,Kimco Realty,Real Estate,2006-04-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KMI,Kinder Morgan,Energy,2012-05-25,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KKR,KKR & Co.,Financials,2024-06-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KLAC,KLA Corporation,Information Technology,1997-09-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KHC,Kraft Heinz,Consumer Staples,2015-07-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+KR,Kroger,Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LHX,L3Harris,Industrials,2008-09-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LH,Labcorp,Health Care,2004-11-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LRCX,Lam Research,Information Technology,2012-06-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LVS,Las Vegas Sands,Consumer Discretionary,2019-10-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LDOS,Leidos,Industrials,2019-08-09,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LEN,Lennar,Consumer Discretionary,2005-10-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LII,Lennox International,Industrials,2024-12-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LLY,Lilly (Eli),Health Care,1970-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LIN,Linde plc,Materials,1992-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LYV,Live Nation Entertainment,Communication Services,2019-12-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LMT,Lockheed Martin,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+L,Loews Corporation,Financials,1995-05-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LOW,Lowe's,Consumer Discretionary,1984-02-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LULU,Lululemon Athletica,Consumer Discretionary,2023-10-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LITE,Lumentum,Information Technology,2026-03-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LYB,LyondellBasell,Materials,2012-09-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MTB,M&T Bank,Financials,2004-02-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MPC,Marathon Petroleum,Energy,2011-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MAR,Marriott International,Consumer Discretionary,1998-05-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MRSH,Marsh McLennan,Financials,1987-08-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MLM,Martin Marietta Materials,Materials,2014-07-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MRVL,Marvell Technology,Information Technology,2026-06-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MAS,Masco,Industrials,1981-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MA,Mastercard,Financials,2008-07-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MKC,McCormick & Company,Consumer Staples,2003-03-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MCD,McDonald's,Consumer Discretionary,1970-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MCK,McKesson,Health Care,1999-01-13,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MDT,Medtronic,Health Care,1986-10-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MRK,Merck & Co.,Health Care,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+META,Meta Platforms,Communication Services,2013-12-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MET,MetLife,Financials,2000-12-11,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MTD,Mettler Toledo,Health Care,2016-09-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MGM,MGM Resorts,Consumer Discretionary,2017-07-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MCHP,Microchip Technology,Information Technology,2007-09-07,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MU,Micron Technology,Information Technology,1994-09-27,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MSFT,Microsoft,Information Technology,1994-06-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MAA,Mid-America Apartment Communities,Real Estate,2016-12-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MRNA,Moderna,Health Care,2021-07-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MDLZ,Mondelez International,Consumer Staples,2012-10-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MPWR,Monolithic Power Systems,Information Technology,2021-02-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MNST,Monster Beverage,Consumer Staples,2012-06-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MCO,Moody's Corporation,Financials,1998-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MS,Morgan Stanley,Financials,1993-07-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MOS,Mosaic Company (The),Materials,2011-09-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MSI,Motorola Solutions,Information Technology,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+MSCI,MSCI,Financials,2018-04-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NDAQ,"Nasdaq, Inc.",Financials,2008-10-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NTAP,NetApp,Information Technology,1999-06-25,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NFLX,Netflix,Communication Services,2010-12-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NEM,Newmont,Materials,1969-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NWSA,News Corp (Class A),Communication Services,2013-08-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NWS,News Corp (Class B),Communication Services,2015-09-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NEE,NextEra Energy,Utilities,1976-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NKE,"Nike, Inc.",Consumer Discretionary,1988-11-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NI,NiSource,Utilities,2000-11-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NDSN,Nordson Corporation,Industrials,2022-02-15,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NSC,Norfolk Southern,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NTRS,Northern Trust,Financials,1998-01-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NOC,Northrop Grumman,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,2017-10-13,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NRG,NRG Energy,Utilities,2010-01-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NUE,Nucor,Materials,1985-04-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NVDA,Nvidia,Information Technology,2001-11-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NVR,"NVR, Inc.",Consumer Discretionary,2019-09-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NXPI,NXP Semiconductors,Information Technology,2021-03-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ORLY,O'Reilly Automotive,Consumer Discretionary,2009-03-27,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+OXY,Occidental Petroleum,Energy,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+OKTA,"Okta, Inc.",Information Technology,2026-11-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ODFL,Old Dominion,Industrials,2019-12-09,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+OMC,Omnicom Group,Communication Services,1997-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ON,ON Semiconductor,Information Technology,2022-06-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+OKE,Oneok,Energy,2010-03-15,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ORCL,Oracle Corporation,Information Technology,1989-08-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+OTIS,Otis Worldwide,Industrials,2020-04-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PCAR,Paccar,Industrials,1980-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PKG,Packaging Corporation of America,Materials,2017-07-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PLTR,Palantir Technologies,Information Technology,2024-09-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PANW,Palo Alto Networks,Information Technology,2023-06-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PH,Parker Hannifin,Industrials,1985-11-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PAYX,Paychex,Industrials,1998-10-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PYPL,PayPal,Financials,2015-07-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PNR,Pentair,Industrials,2012-10-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PEP,PepsiCo,Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PFE,Pfizer,Health Care,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PCG,PG&E Corporation,Utilities,2022-10-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PM,Philip Morris International,Consumer Staples,2008-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PSX,Phillips 66,Energy,2012-05-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PNW,Pinnacle West Capital,Utilities,1999-10-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PNC,PNC Financial Services,Financials,1988-04-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PPG,PPG Industries,Materials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PPL,PPL Corporation,Utilities,2001-10-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PFG,Principal Financial Group,Financials,2002-07-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PG,Procter & Gamble,Consumer Staples,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PGR,Progressive Corporation,Financials,1997-08-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PLD,Prologis,Real Estate,2003-07-17,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PRU,Prudential Financial,Financials,2002-07-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PTC,PTC Inc.,Information Technology,2021-04-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PEG,Public Service Enterprise Group,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PSA,Public Storage,Real Estate,2005-08-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PHM,PulteGroup,Consumer Discretionary,1984-04-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+Q,Qnity Electronics,Information Technology,2025-11-03,,,0,0,0,0,0,No price data in study period,False
+QCOM,Qualcomm,Information Technology,1999-07-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+PWR,Quanta Services,Industrials,2009-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DGX,Quest Diagnostics,Health Care,2002-12-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+RL,Ralph Lauren Corporation,Consumer Discretionary,2007-02-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+RJF,Raymond James Financial,Financials,2017-03-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+RDDT,Reddit,Communication Services,2026-08-18,2024-03-21,2024-12-31,197,0,0,0,0,Incomplete history (does not cover full study period),False
+O,Realty Income,Real Estate,2015-04-07,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+REG,Regency Centers,Real Estate,2017-03-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+REGN,Regeneron Pharmaceuticals,Health Care,2013-05-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+RF,Regions Financial Corporation,Financials,1998-08-28,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+RSG,Republic Services,Industrials,2008-12-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+RMD,ResMed,Health Care,2017-07-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+RVTY,Revvity,Health Care,1985-05-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+HOOD,Robinhood Markets,Financials,2025-09-22,2021-07-29,2024-12-31,862,0,0,0,0,Incomplete history (does not cover full study period),False
+ROK,Rockwell Automation,Industrials,2000-03-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ROL,"Rollins, Inc.",Industrials,2018-10-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ROP,Roper Technologies,Information Technology,2009-12-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ROST,Ross Stores,Consumer Discretionary,2009-12-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+RCL,Royal Caribbean Group,Consumer Discretionary,2014-12-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+RTX,RTX Corporation,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SPGI,S&P Global,Financials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+CRM,Salesforce,Information Technology,2008-09-15,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SNDK,Sandisk,Information Technology,2025-11-28,,,0,0,0,0,0,No price data in study period,False
+SBAC,SBA Communications,Real Estate,2017-09-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SLB,Schlumberger,Energy,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+STX,Seagate Technology,Information Technology,2012-07-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SRE,Sempra,Utilities,2017-03-17,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+NOW,ServiceNow,Information Technology,2019-11-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SHW,Sherwin-Williams,Materials,1964-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SPG,Simon Property Group,Real Estate,2002-06-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SKYD,Skydance,Communication Services,1994-09-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SWKS,Skyworks Solutions,Information Technology,2015-03-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SJM,J.M. Smucker Company (The),Consumer Staples,2008-11-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SW,Smurfit Westrock,Materials,2024-07-08,2021-01-04,2024-12-31,1005,0,0,0,424,Volume error (zero or negative volume),False
+SNA,Snap-on,Industrials,1982-09-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SOLV,Solventum,Health Care,2024-04-01,2024-03-26,2024-12-31,194,0,0,0,0,Incomplete history (does not cover full study period),False
+SO,Southern Company,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+LUV,Southwest Airlines,Industrials,1994-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SWK,Stanley Black & Decker,Industrials,1982-09-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SBUX,Starbucks,Consumer Discretionary,2000-06-07,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+STT,State Street Corporation,Financials,2003-03-14,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+STLD,Steel Dynamics,Materials,2022-12-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+STE,Steris,Health Care,2019-12-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SYK,Stryker Corporation,Health Care,2000-12-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SMCI,Supermicro,Information Technology,2024-03-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SYF,Synchrony Financial,Financials,2015-11-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SNPS,Synopsys,Information Technology,2017-03-16,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+SYY,Sysco,Consumer Staples,1986-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TMUS,T-Mobile US,Communication Services,2019-07-15,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TROW,T. Rowe Price,Financials,2019-07-29,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TTWO,Take-Two Interactive,Communication Services,2018-03-19,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TPR,"Tapestry, Inc.",Consumer Discretionary,2004-09-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TRGP,Targa Resources,Energy,2022-10-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TGT,Target Corporation,Consumer Staples,1976-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TEL,TE Connectivity,Information Technology,2011-10-17,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TDY,Teledyne Technologies,Information Technology,2020-06-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TER,Teradyne,Information Technology,2020-09-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TSLA,"Tesla, Inc.",Consumer Discretionary,2020-12-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TXN,Texas Instruments,Information Technology,2001-03-12,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TPL,Texas Pacific Land Corporation,Energy,2024-11-26,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TXT,Textron,Industrials,1978-12-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TMO,Thermo Fisher Scientific,Health Care,2004-08-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TJX,TJX Companies,Consumer Discretionary,1985-09-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TKO,TKO Group Holdings,Communication Services,2025-03-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TSCO,Tractor Supply,Consumer Discretionary,2014-01-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TT,Trane Technologies,Industrials,2010-11-17,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TDG,TransDigm Group,Industrials,2016-06-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TRV,Travelers Companies (The),Financials,2002-08-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TRMB,Trimble Inc.,Information Technology,2021-01-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TFC,Truist Financial,Financials,1997-12-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TWLO,Twilio,Information Technology,2026-10-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TYL,Tyler Technologies,Information Technology,2020-06-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+TSN,Tyson Foods,Consumer Staples,2005-08-10,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+USB,U.S. Bancorp,Financials,1999-11-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+UBER,Uber,Industrials,2023-12-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+UDR,"UDR, Inc.",Real Estate,2016-03-07,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ULTA,Ulta Beauty,Consumer Discretionary,2016-04-18,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+UNP,Union Pacific Corporation,Industrials,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+UAL,United Airlines Holdings,Industrials,2015-09-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+UPS,United Parcel Service,Industrials,2002-07-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+URI,United Rentals,Industrials,2014-09-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+UNH,UnitedHealth Group,Health Care,1994-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+UHS,Universal Health Services,Health Care,2014-09-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VLO,Valero Energy,Energy,2002-12-20,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VEEV,Veeva Systems,Health Care,2026-05-07,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VTR,Ventas,Real Estate,2009-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VLTO,Veralto,Industrials,2023-10-02,2023-10-04,2024-12-31,313,0,0,0,0,Incomplete history (does not cover full study period),False
+VRSN,Verisign,Information Technology,2006-02-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VRSK,Verisk Analytics,Industrials,2015-10-08,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VZ,Verizon,Communication Services,1983-11-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VRTX,Vertex Pharmaceuticals,Health Care,2013-09-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VRT,Vertiv,Industrials,2026-03-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VTRS,Viatris,Health Care,2004-04-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VICI,Vici Properties,Real Estate,2022-06-08,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+V,Visa Inc.,Financials,2009-12-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VST,Vistra Corp.,Utilities,2024-05-08,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VMRK,Vivmark Residential,Real Estate,2001-12-03,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VMC,Vulcan Materials Company,Materials,1999-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+VYLR,Vylor,Consumer Staples,2026-10-01,,,0,0,0,0,0,No price data in study period,False
+WRB,W. R. Berkley Corporation,Financials,2019-12-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+GWW,W. W. Grainger,Industrials,1981-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WAB,Wabtec,Industrials,2019-02-27,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WMT,Walmart,Consumer Staples,1982-08-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+DIS,Walt Disney Company (The),Communication Services,1976-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WM,Waste Management,Industrials,1998-08-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WAT,Waters Corporation,Health Care,2002-01-02,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WEC,WEC Energy Group,Utilities,2008-10-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WFC,Wells Fargo,Financials,1976-06-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WELL,Welltower,Real Estate,2009-01-30,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WST,West Pharmaceutical Services,Health Care,2020-05-22,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WDC,Western Digital,Information Technology,2009-07-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WY,Weyerhaeuser,Real Estate,1979-10-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,2025-03-24,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WMB,Williams Companies,Energy,1975-03-31,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WTW,Willis Towers Watson,Financials,2016-01-05,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WDAY,"Workday, Inc.",Information Technology,2024-12-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+WYNN,Wynn Resorts,Consumer Discretionary,2008-11-14,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+XEL,Xcel Energy,Utilities,1957-03-04,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+XYL,Xylem Inc.,Industrials,2011-11-01,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+YUM,Yum! Brands,Consumer Discretionary,1997-10-06,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ZBRA,Zebra Technologies,Information Technology,2019-12-23,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ZBH,Zimmer Biomet,Health Care,2001-08-07,2021-01-04,2024-12-31,1005,0,0,0,0,,True
+ZTS,Zoetis,Health Care,2013-06-21,2021-01-04,2024-12-31,1005,0,0,0,0,,True
