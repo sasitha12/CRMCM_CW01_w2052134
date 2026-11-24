@@ -1,0 +1,19 @@
+run_id,group,parameter,value
+RFM_2024-12-31_v1,source,ticker list,https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+RFM_2024-12-31_v1,source,price data,"yfinance 0.2.66 (auto_adjust=False, actions=True, daily)"
+RFM_2024-12-31_v1,source,retrieved (UTC),2026-11-19 10:27 UTC
+RFM_2024-12-31_v1,source,study period,2021-01-01 to before 2025-01-01
+RFM_2024-12-31_v1,source,benchmark,^GSPC
+RFM_2024-12-31_v1,window,observation date,2024-12-31
+RFM_2024-12-31_v1,window,RFM window,2024-10-07 to 2024-12-31 (60 trading sessions)
+RFM_2024-12-31_v1,window,weekly features,"207 complete Friday-ending weeks, 2021-01-15 to 2024-12-27"
+RFM_2024-12-31_v1,window,high-volume event,volume above 2.0 x the mean of the preceding 20 sessions
+RFM_2024-12-31_v1,calculation,shares retained,strict common history: 486 of 503 shares
+RFM_2024-12-31_v1,calculation,returns,"Adj Close; weekly return = Friday-to-Friday; beta = cov(share, benchmark) / var(benchmark)"
+RFM_2024-12-31_v1,calculation,Recency / Frequency / Monetary,days since last event / events in the 60-session window / sum of Close x Volume in the window
+RFM_2024-12-31_v1,clustering,Matrix 1,"mean_weekly_return, weekly_beta (standardised)"
+RFM_2024-12-31_v1,clustering,Matrix 2,"recency_days, frequency_60d, log1p_monetary (standardised separately; Monetary as log1p)"
+RFM_2024-12-31_v1,clustering,algorithms,"Ward linkage; K-means with n_init=50, random_state=42"
+RFM_2024-12-31_v1,clustering,choice of k,highest silhouette (formal); best silhouette with k>=3 and no cluster under 5% (extra)
+RFM_2024-12-31_v1,environment,snapshot packages,"python 3.13.18, pandas 2.2.3, numpy 2.4.6, yfinance 0.2.66"
+RFM_2024-12-31_v1,environment,this runtime,"python 3.13.18, pandas 2.2.3, numpy 2.4.6, scikit-learn 1.6.1, scipy 1.16.3"

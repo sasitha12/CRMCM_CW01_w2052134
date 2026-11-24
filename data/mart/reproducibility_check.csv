@@ -1,0 +1,11 @@
+solution_key,algorithm,matrix,k,ARI_rerun_vs_stored,same_sizes,ARI_other_seed_vs_stored
+1,Ward,M1,2,1.0,True,
+2,Ward,M1,5,1.0,True,
+3,Ward,M2,2,1.0,True,
+4,Ward,M2,3,1.0,True,
+5,K-means,M1,2,1.0,True,1.0
+6,K-means,M1,5,1.0,True,0.9796064492021714
+7,K-means,M2,2,1.0,True,1.0
+8,K-means,M2,4,1.0,True,1.0
+9,Ward without Monetary,M2 without Monetary,2,1.0,True,
+10,Ward without Monetary,M2 without Monetary,3,1.0,True,

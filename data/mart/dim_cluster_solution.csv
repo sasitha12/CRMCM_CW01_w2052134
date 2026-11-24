@@ -1,0 +1,11 @@
+run_id,solution_key,algorithm,matrix,features,k,role,silhouette,cluster_sizes,smallest_cluster_pct
+RFM_2024-12-31_v1,1,Ward,M1,"mean_weekly_return, weekly_beta",2,formal (best silhouette),0.3394852697783843,394/92,18.930041152263374
+RFM_2024-12-31_v1,2,Ward,M1,"mean_weekly_return, weekly_beta",5,"extra (k>=3, no cluster under 5%)",0.304135027255208,182/98/92/66/48,9.876543209876543
+RFM_2024-12-31_v1,3,Ward,M2,"recency_days, frequency_60d, log1p_monetary",2,formal (best silhouette),0.36802380111590705,404/82,16.872427983539094
+RFM_2024-12-31_v1,4,Ward,M2,"recency_days, frequency_60d, log1p_monetary",3,"extra (k>=3, no cluster under 5%)",0.30397871976038954,250/154/82,16.872427983539094
+RFM_2024-12-31_v1,5,K-means,M1,"mean_weekly_return, weekly_beta",2,formal (best silhouette),0.3869499786941068,343/143,29.4238683127572
+RFM_2024-12-31_v1,6,K-means,M1,"mean_weekly_return, weekly_beta",5,"extra (k>=3, no cluster under 5%)",0.34058865159163865,166/131/112/50/27,5.555555555555555
+RFM_2024-12-31_v1,7,K-means,M2,"recency_days, frequency_60d, log1p_monetary",2,formal (best silhouette),0.42312217312827677,418/68,13.991769547325102
+RFM_2024-12-31_v1,8,K-means,M2,"recency_days, frequency_60d, log1p_monetary",4,"extra (k>=3, no cluster under 5%)",0.3408665488002106,212/122/91/61,12.551440329218106
+RFM_2024-12-31_v1,9,Ward without Monetary,M2 without Monetary,"recency_days, frequency_60d",2,sensitivity,0.5239089728291545,397/89,18.31275720164609
+RFM_2024-12-31_v1,10,Ward without Monetary,M2 without Monetary,"recency_days, frequency_60d",3,sensitivity,0.48796857106685354,272/125/89,18.31275720164609

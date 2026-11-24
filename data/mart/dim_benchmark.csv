@@ -1,0 +1,2 @@
+benchmark_key,symbol,name,type,source
+1,^GSPC,S&P 500 index,price index (dividends not reinvested),"yfinance 0.2.66 (auto_adjust=False, actions=True, daily)"

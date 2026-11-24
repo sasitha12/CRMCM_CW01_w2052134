@@ -1,0 +1,7 @@
+version,k,silhouette,ARI_vs_baseline,sizes
+"baseline: R, F, log1p(M)",2,0.36802380111590705,1.0,"[404, 82]"
+"baseline: R, F, log1p(M)",3,0.30397871976038954,1.0,"[250, 154, 82]"
+raw Monetary instead of log1p(M),2,0.8934624179588562,0.012631435500314989,"[484, 2]"
+raw Monetary instead of log1p(M),3,0.4490945896545469,0.3822628703393423,"[386, 98, 2]"
+log1p on Recency as well,2,0.40204352647111247,0.7815744634282813,"[380, 106]"
+log1p on Recency as well,3,0.3351698489725496,0.881957823521648,"[239, 141, 106]"

@@ -1,0 +1,12 @@
+sector_key,sector_name,shares_in_index,shares_retained
+1,Communication Services,22,20
+2,Consumer Discretionary,47,47
+3,Consumer Staples,33,32
+4,Energy,21,20
+5,Financials,76,74
+6,Health Care,60,58
+7,Industrials,83,78
+8,Information Technology,76,74
+9,Materials,24,23
+10,Real Estate,30,30
+11,Utilities,31,30

@@ -1,0 +1,38 @@
+run_id,stage,file,exists,rows,cols,md5_now,md5_recorded,matches_manifest
+RFM_2024-12-31_v1,1 source download,raw_open.csv,True,1005,505,c4cea66a,c4cea66a,yes
+RFM_2024-12-31_v1,1 source download,raw_high.csv,True,1005,505,d961d1db,d961d1db,yes
+RFM_2024-12-31_v1,1 source download,raw_low.csv,True,1005,505,5d6efe75,5d6efe75,yes
+RFM_2024-12-31_v1,1 source download,raw_close.csv,True,1005,505,240665b9,240665b9,yes
+RFM_2024-12-31_v1,1 source download,raw_adj_close.csv,True,1005,505,22bea169,22bea169,yes
+RFM_2024-12-31_v1,1 source download,raw_volume.csv,True,1005,505,904dc1b9,904dc1b9,yes
+RFM_2024-12-31_v1,1 source download,raw_dividends.csv,True,1005,505,2389b774,2389b774,yes
+RFM_2024-12-31_v1,1 source download,raw_splits.csv,True,1005,505,fac6c376,fac6c376,yes
+RFM_2024-12-31_v1,1 source download,sp500_constituents.csv,True,503,10,a15075da,,-
+RFM_2024-12-31_v1,1 source download,snapshot_info.json,True,,,8e1bed07,,-
+RFM_2024-12-31_v1,2 Task 1 derived,weekly_returns.csv,True,207,488,6842fbb2,,-
+RFM_2024-12-31_v1,2 Task 1 derived,high_volume_flags.csv,True,1005,487,88eb9948,,-
+RFM_2024-12-31_v1,2 Task 1 derived,inclusion_exclusion_log.csv,True,503,13,3f24644e,,-
+RFM_2024-12-31_v1,2 Task 1 derived,feature_table.csv,True,486,12,b5556f8e,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,kmeans_M1_k2_clusters.csv,True,486,2,d9643045,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,kmeans_M1_k5_clusters.csv,True,486,2,66aca66e,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,kmeans_M2_k2_clusters.csv,True,486,2,1166c086,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,kmeans_M2_k4_clusters.csv,True,486,2,1552d6d1,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,ward_M1_k2_clusters.csv,True,486,2,d15cbbbe,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,ward_M1_k5_clusters.csv,True,486,2,f3f1eada,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,ward_M2_k2_clusters.csv,True,486,2,2db741d2,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,ward_M2_k3_clusters.csv,True,486,2,4d3a21cf,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,ward_without_monetary_k2_clusters.csv,True,486,2,11d509ec,,-
+RFM_2024-12-31_v1,3 Task 2 clusters,ward_without_monetary_k3_clusters.csv,True,486,2,9c0de470,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/dim_benchmark.csv,True,1,5,d13195b4,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/dim_cluster_solution.csv,True,10,10,3ac2ed1d,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/dim_date.csv,True,1005,9,ed76ee97,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/dim_sector.csv,True,11,4,0cdc0014,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/dim_share.csv,True,503,7,7a91826b,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/fact_benchmark_day.csv,True,1005,5,581c7a82,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/fact_cluster_assignment.csv,True,4860,4,8136a44d,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/fact_share_day.csv.gz,True,488430,9,e00d3333,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/fact_share_snapshot.csv,True,486,8,95d56caa,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/lineage_files.csv,True,36,9,aaecaf39,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/reproducibility_check.csv,True,10,7,6a1d4f0c,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/run_parameters.csv,True,18,4,906ac35b,,-
+RFM_2024-12-31_v1,4 Task 3 mart,mart/version_register.csv,True,6,8,c2788af9,,-

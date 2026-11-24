@@ -1,0 +1,7 @@
+version_id,run_id,kind,what_changed,observation_date(s),output,rows_in_output,md5
+v1,RFM_2024-12-31_v1,baseline,"As the brief: Adj Close returns, Close x Volume traded value, event = volume above 2x the preceding 20-session mean, observation date 2024-12-31",2024-12-31,feature_table.csv,486,b5556f8e
+v1-A,RFM_2024-12-31_v1-A,experiment,Weekly returns from Close (price return) instead of Adj Close; compared in Task 1 Experiment A and Task 3.2.3 Part B,2024-12-31,figures/fig08_experiment_a_price_basis.png (figure only),,-
+v1-B,RFM_2024-12-31_v1-B,experiment,Recency and Frequency recomputed ignoring the market-wide days (more than 30% of shares flagged); 369 of 486 shares get a different Recency,2024-12-31,"feature_table.csv, columns recency_idio_days and frequency_idio_60d",486,b5556f8e
+v1-C,RFM_2024-12-31_v1-C,experiment,"Observation date moved to earlier month-ends to see how Recency, Frequency and Monetary change",2024-09-30 to 2024-12-31,experiment_c_observation_date_sensitivity.csv,4,eff05b53
+v1-RF,RFM_2024-12-31_v1-RF,experiment,"Ward clustering on Recency and Frequency only (Monetary removed), k = 2 to 8; the cluster lists for k = 2 and 3 are kept",2024-12-31,ward_without_monetary_comparison.csv; ward_without_monetary_k2_clusters.csv; ward_without_monetary_k3_clusters.csv,7,d8bf7f86
+v1-D,RFM_2024-12-31_v1-D,experiment,Matrix 2 Ward clusters rebuilt at 13 earlier month-ends (k = 2 and 3) and compared with the December 2024 clusters,2023-12-29 to 2024-12-31,cluster_drift_ward_matrix2.csv,26,94f73a1d
