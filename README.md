@@ -11,5 +11,5 @@ S&P 500 stock segmentation with adapted RFM (Recency, Frequency, Monetary) measu
 ## How to re-run
 1. Open the notebook in Google Colab (the badge at the top of the notebook).
 2. Choose Runtime > Run all. The data is restored from this repository; nothing is downloaded live (`ALLOW_LIVE_DOWNLOAD = False`), so results reproduce the frozen snapshot.
-3. The notebook mounts Google Drive by default. To run without Drive, set `USE_GOOGLE_DRIVE = False` in the SETUP cell.
+3. The notebook runs without Google Drive by default (`USE_GOOGLE_DRIVE = False`): the data is restored from this repository into the Colab session. To keep the data in your own Drive instead, set `USE_GOOGLE_DRIVE = True` in the SETUP cell.
 4. Each step prints PASSED lines for its built-in checks.
